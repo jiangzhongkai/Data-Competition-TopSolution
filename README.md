@@ -98,6 +98,8 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
    Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning \
    Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
    
+17.2018-CCF大数据竞赛-电信用户套餐匹配\
+   Rank6:https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
 NLP：
 ------
 1. 2018 DC达观-文本智能处理挑战 \
