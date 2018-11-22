@@ -99,11 +99,14 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
    Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
    
 17.2018-CCF大数据竞赛-电信用户套餐匹配 \
-   Rank6:https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6 
+   Rank6:https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
    
-   
-   
-   
+
+18.知乎看山杯 \
+   Rank2:http://link.zhihu.com/?target=https%3A//github.com/Magic-Bubble/Zhihu
+ 
+ 
+ 
    
 NLP：
 ------
